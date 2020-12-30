@@ -1,5 +1,5 @@
 # Changes made
-CameraParametersMultiplier.py for multiplying camera parameters. Refer Asana discussion link: https://app.asana.com/0/1196254652587615/1198198087334479/f
+CameraParametersMultiplier.py for multiplying camera parameters. For Input of this camera parameters file, Refer Asana discussion link: https://app.asana.com/0/1196254652587615/1198198087334479/f 
 
 
 
