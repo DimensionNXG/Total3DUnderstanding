@@ -1,3 +1,9 @@
+# Changes made
+CameraParametersMultiplier.py for multiplying camera parameters. Refer Asana discussion link: https://app.asana.com/0/1196254652587615/1198198087334479/f
+
+
+
+# Original repo's README
 ## Total3DUnderstanding [[Project Page]](https://yinyunie.github.io/Total3D/)[[Oral Paper]](https://arxiv.org/abs/2002.12212) [[Talk]](https://www.youtube.com/watch?v=tq7jBhfdszI)
 
 **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image** <br>
